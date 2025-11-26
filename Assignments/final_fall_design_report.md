@@ -263,7 +263,8 @@ To evaluate myself, I will check whether my work is completed by deadlines and i
 smoothly with Jash’s work. Our end goal with this project is to develop a platform that is
 reliable, and able to provide financial insights.*
 .
-
+### **Omkar Sontake – Self Assessment**
+My senior design project revolves around the development of a financial backtesting platform that enables users to test trading and investment strategies on historical data, combining my interests in computer science and finance. Coursework ranging from Data Structures, Algorithms, Database Design, Cloud Computing, and Parallel Computing to Business Finance and Operations Management readies me for handling large datasets, designing efficient algorithms, and connecting technical tools to financial decision-making. Co-op roles strengthened problem-solving and adaptability in real-world settings, and serving as a Resident Advisor allowed me to build up leadership and communication skills further in support of effective teamwork. This project aligns with previous work I have done in quantitative financial modeling, and my long-term goal is to pursue a career in fintech. I would develop the system in several stages: acquiring the data, building the backtester in a modular way, implementation of high-performance algorithms, and validation of results using visualizations. Successful delivery will include quantified system accuracy, performance, strong documentation, and quality feedback from my teammate Omkar and our advisor, assuring that the platform delivers meaningful metrics on returns, volatility, and risk-adjusted performance.
 ---
 
 # Professional Biographies (Assignment #1)
