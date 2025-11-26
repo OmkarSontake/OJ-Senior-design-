@@ -53,9 +53,9 @@ We are developing a platform that backtests trading strategies using historical 
 
 # Project Description (Assignment #2)
 
-Team OJ is building a platform for backtesting trading strategies. Many new investors want to test trading ideas but do not have access to expensive tools or professional platforms. Our project gives users the ability to upload historical price data, define simple rule-based trading strategies, run a backtest simulation, and view performance results.
+We are building a platform for backtesting trading strategies. Many new investors want to test trading ideas but do not have access to expensive tools or professional platforms. With our project we aim to gives users the ability to upload historical price data, define simple rule-based trading strategies, run a backtest simulation, and view performance results.
 
-The platform is designed to be approachable for business and CS students as well as beginners. It includes modules that load data, evaluate strategy rules, simulate buy/sell operations over time, track portfolio value, and generate useful metrics and summaries. The goal is to make algorithmic trading concepts easier to understand while giving users a safe way to experiment with financial data.
+We have designed the platform to be approachable for business and CS students as well as beginners. It includes modules that load data, evaluate strategy rules, simulate buy/sell operations over time, track portfolio value, and generate useful metrics and summaries. The goal is to make algorithmic trading concepts easier to understand while giving users a safe way to experiment with financial data.
 
 ---
 
